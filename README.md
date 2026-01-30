@@ -1,79 +1,107 @@
-<!-- Animated Header -->
+<!-- Header -->
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <Your Name>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm ssqueezylemonpie
 </h1>
 
-<!-- Typing Animation -->
+<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=IT+Student;Aspiring+Tech+Professional;Future+IT+Engineer;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=IT+Student+%F0%9F%92%BB;Aspiring+IT+Tech+%26+Support+Engineer+%F0%9F%94%A7;AI-assisted+coding+%F0%9F%A4%96%E2%9C%A8;Creative+builder+%F0%9F%8E%A8;Anime+%26+Manga+enjoyer+%F0%9F%93%9A;New+football+fan+%E2%9A%BD" />
 </p>
 
-<!-- Visitor Badge -->
+<!-- Badges -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ssqueezylemonpie" />
+  <img src="https://img.shields.io/badge/Theme-Dark-111827?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-IT%20Tech-1f2937?style=flat&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loves-Anime%20%26%20Manga-111827?style=flat&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Coding%20Buddy-1f2937?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 IT Student passionate about technology  
-- 🌱 Currently learning **Networking, Linux, and Programming**
-- 💻 Interested in **IT Support, Cybersecurity, and Systems**
-- ⚽ Football fan
+- 🎓 IT student working toward becoming **IT Tech / Support**
+- 🤖 I like using **AI to code**, learn faster, and build creative projects
+- 🎨 I’m big on **creativity** (cool UI, fun tools, automations, experiments)
+- 📚 I enjoy **anime/manga**
+- ⚽ Football fan 
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
----
-
-## 📈 GitHub Stats (Animated)
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,python,js,html,css" />
+</p>
+
+**Also interested in:**
+- 🛜 Networking fundamentals (DNS, DHCP, troubleshooting)
+- 🖥️ IT Support workflows (tickets, documentation, customer communication)
+- 🔐 Security basics (good habits + learning tools)
+
+---
+
+## 🚀 What I’m Working On
+
+- ✅ Building hands-on IT projects (scripts, setups, labs)
+- ✅ Learning troubleshooting + networking step-by-step
+- ✅ Using AI as a “pair programmer” to level up faster
+
+---
+
+## 📌 Featured Projects
+
+> Add your best repos here (replace the links later as you build 🔥)
+
+- 🧠 **AI Tools / Experiments** — small projects where you use AI creatively  
+- 🛠️ **IT Lab Notes** — networking/Linux labs + troubleshooting docs  
+- ⚙️ **Automation Scripts** — Python scripts to make life easier
+
+---
+
+## 📊 GitHub Stats (Dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ssqueezylemonpie&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssqueezylemonpie&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssqueezylemonpie&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Trophies (because why not)
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ssqueezylemonpie&theme=onedark&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
 
-## 🚀 Current Goals
+## 🌐 Connect
 
-- 🔹 Build hands-on IT projects  
-- 🔹 Improve networking & troubleshooting skills  
-- 🔹 Land an IT / Tech role  
+<p align="center">
+  <!-- Add your links -->
+  <!-- Example:
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  -->
+</p>
 
 ---
 
-✨ Thanks for visiting my profile!
-⭐️ From **YOUR_GITHUB_USERNAME**
+## ⚡ Fun Zone
+
+- 📺 Current vibe: **anime + learning tech + building projects**
+- 🧩 Favorite thing to build: **stuff that feels like magic**
+- ⚽ Football status: **new fan** (teaching myself teams, tactics, and hype)
+
+---
+
+⭐️ If you like what I’m building, feel free to follow!
