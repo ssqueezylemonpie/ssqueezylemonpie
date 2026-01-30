@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ssqueezylemonpie" />
+  <img src="https://komarev.com/ghpvc/?username=ssqueezylemonpie&style=flat&color=111827" />
   <img src="https://img.shields.io/badge/Theme-Dark-111827?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-IT%20Tech-1f2937?style=flat&logo=windows-terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Loves-Anime%20%26%20Manga-111827?style=flat&logo=crunchyroll&logoColor=white" />
@@ -25,7 +25,7 @@
 - 🤖 I like using **AI to code**, learn faster, and build creative projects
 - 🎨 I’m big on **creativity** (cool UI, fun tools, automations, experiments)
 - 📚 I enjoy **anime/manga**
-- ⚽ Football fan 
+- ⚽ Football fan
 
 ---
 
@@ -61,6 +61,7 @@
 ---
 
 ## 📊 GitHub Stats (Dark)
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssqueezylemonpie&theme=tokyo-night&hide_border=true" />
 </p>
