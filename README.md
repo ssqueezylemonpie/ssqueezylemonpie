@@ -61,15 +61,6 @@
 ---
 
 ## 📊 GitHub Stats (Dark)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssqueezylemonpie&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssqueezylemonpie&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssqueezylemonpie&theme=tokyo-night&hide_border=true" />
 </p>
