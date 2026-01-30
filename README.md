@@ -1,4 +1,1 @@
-## Hi there 👋
-
-![Profile Views](https://komarev.com/ghpvc/?ssqueezylemonpie&color=blue)
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ssqueezylemonpie" />
