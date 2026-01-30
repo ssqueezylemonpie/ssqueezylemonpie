@@ -76,14 +76,6 @@
 
 ---
 
-## 🏆 Trophies (because why not)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssqueezylemonpie&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
