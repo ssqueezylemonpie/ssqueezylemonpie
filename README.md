@@ -1,8 +1,3 @@
-<!-- Header -->
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm ssqueezylemonpie
-</h1>
-
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=IT+Student+%F0%9F%92%BB;Aspiring+IT+Tech+%26+Support+Engineer+%F0%9F%94%A7;AI-assisted+coding+%F0%9F%A4%96%E2%9C%A8;Creative+builder+%F0%9F%8E%A8;Anime+%26+Manga+enjoyer+%F0%9F%93%9A;New+football+fan+%E2%9A%BD" />
