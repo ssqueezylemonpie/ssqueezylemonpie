@@ -42,9 +42,8 @@
 
 > Add your best repos here (replace the links later as you build 🔥)
 
-- 🧠 **AI Tools / Experiments** — small projects where you use AI creatively  
-- 🛠️ **IT Lab Notes** — networking/Linux labs + troubleshooting docs  
-- ⚙️ **Automation Scripts** — Python scripts to make life easier
+- **https://github.com/ssqueezylemonpie/Tower-defense** — Tower Defense 
+- **https://github.com/ssqueezylemonpie/CHess** — Chess with AI and 2 player mode
 
 ---
 
