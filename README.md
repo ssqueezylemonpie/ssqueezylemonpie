@@ -82,7 +82,6 @@
 
 - 📺 Current vibe: **anime + learning tech + building projects**
 - 🧩 Favorite thing to build: **stuff that feels like magic**
-- ⚽ Football status: **new fan** (teaching myself teams, tactics, and hype)
 
 ---
 
