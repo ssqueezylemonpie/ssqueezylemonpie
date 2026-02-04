@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=ssqueezylemonpie&style=flat&color=111827" />
   <img src="https://img.shields.io/badge/Theme-Dark-111827?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-IT%20Tech-1f2937?style=flat&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loves-Anime%20%26%20Manga-111827?style=flat&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Coding%20Buddy-1f2937?style=flat&logo=openai&logoColor=white" />
 </p>
 
 ---
