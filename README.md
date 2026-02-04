@@ -40,8 +40,6 @@
 
 ## 📌 Featured Projects
 
-> Add your best repos here (replace the links later as you build 🔥)
-
 - **https://github.com/ssqueezylemonpie/Tower-defense** — Tower Defense 
 - **https://github.com/ssqueezylemonpie/CHess** — Chess with AI and 2 player mode
 
