@@ -17,11 +17,5 @@ To get started with our projects, follow these simple steps:
 2. Navigate to the directory `cd ssqueezylemonpie`
 3. Install the required dependencies (if any)
 
-## Contributing
-We welcome contributions! Please check our contribution guidelines to get started. 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Contact
-For inquiries, reach out via [email@example.com](mailto:email@example.com).
+For inquiries, reach out via [stiansjerve@gmail.com](mailto:stiansjerve@gmail.com).
