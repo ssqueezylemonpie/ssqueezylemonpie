@@ -1,6 +1,6 @@
-# SSQUEEZY LEMON PIE
+# SSQUEEZYLEMONPIE | Stian Skaarer Jerve
 
-Welcome to the SSQUEEZY LEMON PIE repository! Here we share various resources and projects related to technology, creativity, and innovation.
+Welcome to the Squeezylemonpie repository! Here we share various resources and projects related to technology, creativity, and innovation.
 
 ## Table of Contents
 1. [Introduction](#introduction)
